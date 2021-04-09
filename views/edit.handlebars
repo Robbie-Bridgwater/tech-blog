@@ -1,0 +1,41 @@
+<div class="container">
+  <button onclick="window.location.href='/dashboard'" class="btn btn-secondaryColor">
+    Return to dashboard
+  </button>
+
+  <br /><br />
+
+  <h2 class="title mt-3 titles">EDIT POST</h2>
+
+  <br />
+
+  <form class="form edit-post-form">
+    <div>
+      <label for="post-name">Post title:</label><br />
+      <input
+        class="input my-2"
+        name="post-name"
+        type="text"
+        value="{{ name }}"
+      />
+    </div>
+
+    <div>
+      <label for="post-desc">Post:</label><br />
+      <input
+        class="input my-2"
+        name="post-desc"
+        type="text"
+        value="{{ description }}"
+      />
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-secondaryColor">Save Post</button>
+
+    <br /><br />
+  </form>
+</div>
+
+<script src="/js/editPost.js"></script>
