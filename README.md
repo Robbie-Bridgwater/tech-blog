@@ -13,7 +13,7 @@ Section | Description
 [Licence](#licence) | Licence for the source code
 [Questions](#Questions?) | Where you can reach me
 
-## Link To Deployed Heroku Application
+## Deployment
 OPEN TECH-BLOG ---> [HERE](https://robbie-bridgwater-tech-blog.herokuapp.com/)
 
 ## Technologies Used
