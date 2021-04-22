@@ -1,5 +1,5 @@
 # Tech blog
--  This is a CMS-style "Tech blog" application, which has been deployed to Heroku. It is a simple design where developers can publish their blog posts and comment on one anothers posts.
+This is a CMS-style "Tech blog" application, which has been deployed to Heroku. It is a simple design where developers can publish their blog posts and comment on one anothers posts.
 I followed the MVC paradigm and used Handlebars.js as the templating language.
 
 ## Contents
