@@ -3,7 +3,7 @@
 I followed the MVC paradigm and used Handlebars.js as the templating language.
 
 ## Link To Deployed Heroku Application
-Heroku App ---> [here]()
+Heroku App ---> [here](https://robbie-bridgwater-tech-blog.herokuapp.com/)
 
 ## Technologies Used
 
