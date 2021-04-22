@@ -14,7 +14,7 @@ Section | Description
 [Questions](#Questions?) | Where you can reach me
 
 ## Link To Deployed Heroku Application
-Heroku App ---> [here](https://robbie-bridgwater-tech-blog.herokuapp.com/)
+OPEN TECH-BLOG ---> [HERE](https://robbie-bridgwater-tech-blog.herokuapp.com/)
 
 ## Technologies Used
 
